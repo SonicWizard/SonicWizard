@@ -12,6 +12,11 @@ I work on Ethereum/EVM smart contracts and real-world asset tokenization.
 - [chainlink-functions-to-cre](https://github.com/SonicWizard/chainlink-functions-to-cre) —
   migrating a Chainlink Functions consumer to CRE after the June 2026 sunset.
   Solidity and TypeScript, 24 tests, both contracts deployed on Sepolia.
+- [chainlink-vrf-housepicker](https://github.com/SonicWizard/chainlink-vrf-housepicker) —
+  Chainlink VRF v2.5 consumer in Foundry, deployed and rolled on Sepolia.
+  Fixes an id collision in the source lesson that made one of four outcomes
+  indistinguishable from never having rolled. Four regression tests and a
+  fuzz test cover it.
 
 **Credentials**
 
@@ -20,4 +25,4 @@ Cyfrin Updraft: Blockchain Basics, Solidity Smart Contract Development.
 
 **Stack**
 
-Solidity, Foundry, Chainlink (CCIP, CRE, Data Feeds), TypeScript, Angular, Node.
+Solidity, Foundry, Chainlink (CCIP, CRE, VRF, Data Feeds), TypeScript, Angular, Node.
