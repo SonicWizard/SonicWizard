@@ -7,7 +7,7 @@ I work on Ethereum/EVM smart contracts and real-world asset tokenization.
 - [ccip-vault-for-zksync](https://github.com/SonicWizard/ccip-vault-for-zksync) —
   bridges tokens and deposits them into a vault in a single Chainlink CCIP
   message. Foundry, 20 tests, deployed and verified on Ethereum Sepolia and
-  ZKsync Sepolia. Documents three defects in the reference implementation
+  ZKsync Sepolia. Documents three defects in the course's reference implementation
   that strand funds.
 - [chainlink-functions-to-cre](https://github.com/SonicWizard/chainlink-functions-to-cre) —
   migrating a Chainlink Functions consumer to CRE after the June 2026 sunset.
