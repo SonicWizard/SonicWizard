@@ -21,7 +21,7 @@ I work on Ethereum/EVM smart contracts and real-world asset tokenization.
 **Credentials**
 
 Certified Bitcoin Professional (CBP) and Certified Ethereum Professional (CEP), C4.
-Cyfrin Updraft: Blockchain Basics, Solidity Smart Contract Development.
+Cyfrin Updraft: Blockchain Basics, Solidity Smart Contract Development, Web3 Wallet Security Basics, Chainlink Fundamentals.
 
 **Stack**
 
