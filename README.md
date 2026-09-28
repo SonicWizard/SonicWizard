@@ -1,5 +1,3 @@
-Principal Software Engineer. 30 years building for the web, 12 of them in crypto.
-
 I work on Ethereum/EVM smart contracts and real-world asset tokenization.
 
 **Current work**
@@ -18,11 +16,6 @@ I work on Ethereum/EVM smart contracts and real-world asset tokenization.
   Fixes an id collision in the source lesson that made one of four outcomes
   indistinguishable from never having rolled. Four regression tests and a
   fuzz test cover it.
-
-**Credentials**
-
-Certified Bitcoin Professional (CBP) and Certified Ethereum Professional (CEP), C4.
-Cyfrin Updraft: Blockchain Basics, Solidity Smart Contract Development, Web3 Wallet Security Basics, Chainlink Fundamentals.
 
 **Stack**
 
