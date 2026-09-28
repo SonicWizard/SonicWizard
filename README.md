@@ -1,4 +1,4 @@
-I work on Ethereum/EVM smart contracts and real-world asset tokenization.
+I build Solidity smart contracts with Foundry and Chainlink. Current projects are deployed on Ethereum Sepolia and ZKsync Sepolia.
 
 **Current work**
 
