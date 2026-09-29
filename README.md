@@ -1,7 +1,8 @@
-I build Solidity smart contracts with Foundry and Chainlink. Current projects are deployed on Ethereum Sepolia and ZKsync Sepolia.
+I build Solidity smart contracts with Foundry and Chainlink, deployed on Ethereum mainnet and testnets.
 
 **Current work**
 
+- [teleburn-verify](https://github.com/SonicWizard/teleburn-verify) — checks whether an Ethereum NFT was teleburned to a Bitcoin Ordinals inscription, on-chain or in the browser at [teleburn.dev](https://teleburn.dev). Stateless verifier deployed and verified on Ethereum mainnet. Derivation cross-checked against `ord` on every CI run, plus fuzz and mainnet fork tests.
 - [ccip-vault-for-zksync](https://github.com/SonicWizard/ccip-vault-for-zksync) —
   bridges tokens and deposits them into a vault in a single Chainlink CCIP
   message. Foundry, 20 tests, deployed and verified on Ethereum Sepolia and
@@ -19,4 +20,4 @@ I build Solidity smart contracts with Foundry and Chainlink. Current projects ar
 
 **Stack**
 
-Solidity, Foundry, Chainlink (CCIP, CRE, VRF, Data Feeds), TypeScript, Angular, Node.
+Solidity, Foundry, Chainlink (CCIP, CRE, VRF, Data Feeds), TypeScript, Angular, Node, Cloudflare Workers
