@@ -1,4 +1,4 @@
-I build Solidity smart contracts with Foundry and Chainlink, deployed on Ethereum mainnet and testnets.
+I build Solidity smart contracts and the TypeScript and JavaScript that runs around them, on Ethereum mainnet and testnets.
 
 **Current work**
 
