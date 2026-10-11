@@ -20,4 +20,4 @@ I build Solidity smart contracts with Foundry and Chainlink, deployed on Ethereu
 
 **Stack**
 
-Solidity, Foundry, Chainlink (CCIP, CRE, VRF, Data Feeds), TypeScript, Angular, Node, Cloudflare Workers
+Solidity, Foundry (incl. foundry-zksync), Chainlink (CCIP, CRE, VRF, Functions), OpenZeppelin, TypeScript, viem, Node, Cloudflare Workers
