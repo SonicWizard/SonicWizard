@@ -17,6 +17,13 @@ I build Solidity smart contracts and the TypeScript and JavaScript that runs aro
   Fixes an id collision in the source lesson that made one of four outcomes
   indistinguishable from never having rolled. Four regression tests and a
   fuzz test cover it.
+- [foundry-smart-contract-lottery](https://github.com/SonicWizard/foundry-smart-contract-lottery) —
+  Chainlink VRF raffle in Foundry, deployed and drawn on Sepolia. Fixes two ways
+  the course's raffle could lock up for good: a winner that can't receive ETH,
+  and a VRF callback that runs out of gas once a round reaches about 27 players,
+  after Glamsterdam repriced storage on Sepolia. Winners withdraw their prize,
+  and the callback costs the same for any number of players. 55 tests, 100%
+  coverage.
 
 **Stack**
 
