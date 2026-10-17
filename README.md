@@ -24,4 +24,4 @@ I build Solidity smart contracts and the TypeScript and JavaScript that runs aro
 
 **Stack**
 
-Solidity, Foundry (incl. foundry-zksync), Chainlink (CCIP, VRF), OpenZeppelin, TypeScript, viem, Node, Cloudflare Workers
+Solidity, Foundry (incl. foundry-zksync), Chainlink (CCIP, CRE, VRF), OpenZeppelin, TypeScript, viem, Node, Cloudflare Workers
